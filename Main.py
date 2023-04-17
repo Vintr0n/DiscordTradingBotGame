@@ -317,7 +317,7 @@ async def on_ready():
     print(f'\n\nLogged in as: {bot.user.name} - {bot.user.id}')
 
 
-my_secret = os.environ['testbot']
+my_secret = os.environ['testtest']
 
 begin = 0
 
